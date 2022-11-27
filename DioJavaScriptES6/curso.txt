@@ -1,0 +1,36 @@
+história e conceitos
+tipos e variáveis
+operadores
+estrutura condicionais e repetição
+
+propostas da linguagem ->
+	https://github.com/tc39/proposals
+
+babeljs.io -> testar as novidades que nao estão disponiveis
+
+https://www.typescriptlang.org/
+
+
+currying
+
+uma função com n parametros, transforma-se em uma de um, e para cada parametro retorna uma nova função
+
+
+
+hoisting
+
+variaveis e funções são levantadas ao escopo em que estão
+
+
+imutabilidade
+
+as variáveis nunca mundam, ele é copiado, altera o que se quer, depois destruido o que existia...
+
+
+tipos e variaveis
+antes eram apenas o escopo global de de função 
+
+var -> 
+let -> aqui apareceu um escopo de bloco
+const ->
+

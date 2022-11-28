@@ -52,3 +52,53 @@ string, number, boolean, null, undefinide, symbol, Object, Function, Array.
 
 spreads
 condicionais e repetição
+
+
+OO em js é baseada em protótipo ( __proto__ )
+
+herança
+classe
+modificadores de acesso
+ -> # se torna privada
+encapsulamento
+static
+
+design patterns
+factory
+decorate
+observer
+module
+
+manipulação de arrays
+
+Array.of
+Array.from
+push
+pop -> final
+unshifts -> começo
+shift
+concat
+slice
+splice
+
+
+
+itera elementos, buscar e transformr elementos
+
+map
+flat
+flatMap
+keys
+find
+findIndex
+filter
+indexOf
+includes
+some
+every
+sort
+reverse
+join
+reduce
+
+

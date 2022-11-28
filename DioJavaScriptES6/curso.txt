@@ -34,3 +34,21 @@ var ->
 let -> aqui apareceu um escopo de bloco
 const ->
 
+
+
+
+Tipos e variáveis
+
+string, number, boolean, null, undefinide, symbol, Object, Function, Array.
+
+- string
+- boolean
+- object
+- funções
+- arrays
+
+- operadores
+
+
+spreads
+condicionais e repetição
